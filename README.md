@@ -2,9 +2,9 @@
 
 ### Dependencies
 """
-opencv
-tensorflow
-numpy
+opencv,
+tensorflow,
+numpy,
 matplotlib
 """
 
